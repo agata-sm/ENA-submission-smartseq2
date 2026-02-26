@@ -57,7 +57,7 @@ Please note the paths to files were originally hardcoded in the script, and were
 
 This samplesheet was submitted to ENA - I do not have notes on any command to do so, so I assume via their web portal.
 
-Upon successful registartion, this email was received:
+Upon successful registration, this email was received:
 
 ```
 	Dear Colleague,
